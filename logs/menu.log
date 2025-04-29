@@ -1,0 +1,2 @@
+2025-04-29 23:16:28 - INFO - Menu - Ran fail2ban_setup.sh with args: --maxretry 5 --harden-ssh
+2025-04-29 23:16:37 - INFO - Menu - Ran cron_manager.sh with args: add

@@ -1,0 +1,5 @@
+2025-04-29 23:16:28 - ERROR - black1hp@172.29.40.136 - Failed to install Fail2Ban: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-04-29 23:16:28 - ERROR - meshmohamed@192.168.153.129 - Failed to install Fail2Ban: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-04-29 23:16:28 - INFO - Summary - 0 successful, 0 failed
